@@ -1,0 +1,1 @@
+ C:\\Users\\HN083W\\Desktop\\AK\ TECHNOLOGIES\ PROJECTS\\medbook\ upadated\ codes\\font\ end\\medbook_flutter\\.dart_tool\\flutter_build\\289859997aa9d854c49bbcc65d26dcda\\native_assets.json: 
