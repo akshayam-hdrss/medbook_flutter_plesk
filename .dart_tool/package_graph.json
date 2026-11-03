@@ -5,7 +5,7 @@
   "packages": [
     {
       "name": "medbook",
-      "version": "1.0.2+5",
+      "version": "1.0.3+6",
       "dependencies": [
         "carousel_slider",
         "cupertino_icons",
